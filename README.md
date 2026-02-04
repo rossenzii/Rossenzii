@@ -4,9 +4,9 @@
 
 #### Activities
 
-- Hongik UMC(University MakeUs Challenge) BE | (2023.09-2024.02)
-- 멋쟁이 사자처럼 Hongik BE | (2025.03-2025.12)
-- BITAmin (AI 연합 동아리) 멤버&운영진 | (2025.03-2026.02)
+- Hongik UMC(University MakeUs Challenge) 5th BE | (2023.09-2024.02)
+- 멋쟁이 사자처럼 Hongik 13th BE | (2025.03-2025.12)
+- BITAmin (AI 연합 동아리) 15th 멤버&운영진 | (2025.03-2026.02)
 
 #### Certificates
 
