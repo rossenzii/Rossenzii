@@ -7,7 +7,7 @@
 - Hongik UMC(University MakeUs Challenge) BE | (2023.09-2024.02)
 - 멋쟁이 사자처럼 Hongik BE | (2025.03-2025.12)
 - BITAmin (AI 연합 동아리) 멤버&운영진 | (2025.03-2026.02)
-----
+
 #### Certificates
 
 - SQLD, 한국데이터산업진흥원(K-data) | (2024.08)
